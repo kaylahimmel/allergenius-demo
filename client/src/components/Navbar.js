@@ -56,7 +56,9 @@ class Headers extends Component {
                     <nav className="navbar navbar-expand-md d-flex justify-content-between">
                     <div className="p-2 nav-link">
                             <a href="/">
-                                <img src="./assets/images/allergenius_logo.svg" height="30" alt="allergenius logo" className="mr-2" />
+                                <img src=".//images/allergenius_logo.png" height="30" alt="allergenius logo" className="mr-2" />
+
+                                <img src="./assets/images/allergenius_logo_blue.png" height="30" alt="allergenius logo" className="mr-2" />
                             </a>
                         </div>
                         <button className="navbar-toggler" 
